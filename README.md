@@ -21,14 +21,17 @@ No manual restart is required.
 
 ## Run
 
-Type in Terminal
+Type in Terminal :-
+
 pip install -r requirements.txt
+then...
 streamlit run app.py
 
 
 ## Optional manual model training
 
-Type in Terminal
+Type in Terminal:- 
+
 python train_model.py
 
 
