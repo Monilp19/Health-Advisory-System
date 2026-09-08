@@ -1,0 +1,236 @@
+disease,description
+Drug Reaction,"• A drug reaction is an unwanted response that occurs after taking a medicine.
+• Symptoms can include skin rash, itching, hives, swelling, fever, or other changes depending on the medicine and reaction.
+• A reaction may occur after starting a new medicine, changing the dose, or occasionally after repeated use.
+• Do not assume that every new symptom is caused by a medicine; a healthcare professional should assess the situation.
+• Seek urgent medical care for breathing difficulty, swelling of the lips or tongue, fainting, or a rapidly worsening reaction.
+• Keep a record of medicines that have caused suspected reactions and tell healthcare professionals about them."
+Malaria,"• Malaria is an infection caused by parasites transmitted through the bites of infected Anopheles mosquitoes.
+• Common symptoms include fever, chills, sweating, headache, body aches, weakness, nausea, and sometimes vomiting.
+• Symptoms may occur in episodes and can become serious if treatment is delayed.
+• Malaria is diagnosed with appropriate blood testing; symptoms alone are not enough to confirm it.
+• Prompt medical treatment is important because severe malaria can affect the brain, kidneys, blood, and other organs.
+• High fever with confusion, seizures, difficulty breathing, severe weakness, or loss of consciousness requires emergency care."
+Allergy,"• An allergy occurs when the body's immune system reacts strongly to a substance that is usually harmless.
+• Possible symptoms include sneezing, a runny or blocked nose, itchy or watery eyes, skin itching, rashes, or swelling.
+• Common triggers include dust, pollen, animal dander, certain foods, medicines, insect stings, or other substances.
+• Symptoms may appear soon after exposure or may develop gradually.
+• Identifying and avoiding the trigger is an important part of managing allergies.
+• Severe swelling of the face or throat, difficulty breathing, dizziness, or fainting can be an emergency and requires immediate medical attention."
+Hypothyroidism,"• Hypothyroidism occurs when the thyroid gland does not produce enough thyroid hormones.
+• Symptoms can include tiredness, feeling unusually cold, weight gain, dry skin, constipation, slowed thinking, or low energy.
+• Some people may develop a slow heart rate, muscle weakness, or changes in hair or menstrual patterns.
+• Symptoms often develop gradually and can overlap with many other conditions.
+• Blood tests are needed to diagnose hypothyroidism accurately.
+• Treatment commonly involves thyroid hormone replacement prescribed and monitored by a healthcare professional."
+Psoriasis,"• Psoriasis is a long-term inflammatory skin condition that causes skin cells to build up too quickly.
+• It commonly produces well-defined, thickened patches covered with whitish or silvery scales, often on the elbows, knees, scalp, or lower back.
+• The affected skin may itch, crack, or feel painful.
+• Psoriasis is not contagious and cannot be spread by touching another person.
+• Symptoms can flare and improve over time, and treatment can help control the condition.
+• Extensive skin involvement, painful joints, or rapidly worsening symptoms should be evaluated by a healthcare professional."
+GERD,"• GERD (gastroesophageal reflux disease) occurs when stomach contents repeatedly flow backward into the food pipe.
+• Common symptoms include burning in the chest (heartburn), a sour or bitter taste, regurgitation, and discomfort after meals.
+• Some people also experience coughing, throat irritation, hoarseness, or difficulty swallowing.
+• Symptoms may become worse after large meals, lying down soon after eating, or eating certain trigger foods.
+• Eating smaller meals and avoiding lying down for a few hours after eating may help reduce symptoms.
+• Persistent or severe symptoms should be evaluated by a healthcare professional."
+Chronic cholestasis,"• Chronic cholestasis occurs when the normal flow of bile from the liver is reduced or blocked over a long period.
+• Possible symptoms include persistent itching, yellowing of the skin or eyes, dark urine, pale stools, and tiredness.
+• Some people may also have abdominal discomfort or digestive problems.
+• The condition can have several causes and may require blood tests and imaging to identify the underlying problem.
+• Long-term cholestasis can affect liver health and should not be ignored.
+• Medical evaluation is important, especially when jaundice or persistent itching develops."
+hepatitis A,"• Hepatitis A is a viral infection that affects the liver.
+• It is commonly spread through contaminated food or water or close contact with an infected person.
+• Symptoms can include tiredness, loss of appetite, nausea, abdominal discomfort, fever, dark urine, pale stools, and yellowing of the skin or eyes.
+• Some infected people, especially young children, may have few or no symptoms.
+• Good hand hygiene and safe food and water practices help reduce transmission.
+• Medical evaluation is important when hepatitis A is suspected, especially if jaundice, persistent vomiting, severe abdominal pain, or dehydration occurs."
+Osteoarthristis,"• Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide.
+• It occurs when the protective cartilage that cushions the ends of your bones wears down over time."
+(vertigo) Paroymsal  Positional Vertigo,"• Benign paroxysmal positional vertigo (BPPV) is a common inner-ear condition that causes brief episodes of spinning or a sensation that the surroundings are moving.
+• Attacks are often triggered by changing the position of the head, such as turning in bed, looking up, or bending over.
+• Nausea or unsteadiness may occur during an episode.
+• BPPV is usually caused by tiny crystals in the inner ear moving into the wrong place.
+• A healthcare professional can assess the condition and may use specific repositioning movements to treat it.
+• Vertigo with new weakness, difficulty speaking, severe headache, fainting, or inability to walk normally requires urgent medical assessment."
+Hypoglycemia,"• Hypoglycemia means blood glucose (blood sugar) is lower than the normal range.
+• Symptoms can include sweating, shaking, hunger, dizziness, weakness, headache, irritability, confusion, or a fast heartbeat.
+• It is particularly common in people using certain diabetes medicines, but other causes are possible.
+• If a person is awake and able to swallow safely, prompt intake of a fast-acting source of glucose may be recommended according to their medical plan.
+• Repeated episodes should be discussed with a healthcare professional to identify and address the cause.
+• Seizures, loss of consciousness, severe confusion, or inability to swallow safely is an emergency."
+Acne,"• Acne is a common skin condition that occurs when hair follicles become blocked by oil and dead skin cells and become inflamed.
+• It can cause blackheads, whiteheads, pimples, or deeper painful lumps, most often on the face, chest, back, or shoulders.
+• Acne can affect people of different ages and is not caused by poor hygiene.
+• Picking or squeezing pimples can increase inflammation and the risk of scars or dark marks.
+• Gentle skin care and appropriate acne treatment can help control symptoms.
+• Severe, painful, or scarring acne should be assessed by a healthcare professional for suitable treatment."
+Diabetes,"• Diabetes is a condition in which blood glucose (blood sugar) remains too high because the body does not make enough insulin, does not use insulin effectively, or both.
+• Common symptoms can include increased thirst, frequent urination, increased hunger, tiredness, blurred vision, or slow healing of wounds.
+• Some people have diabetes for a long time without obvious symptoms.
+• Persistently high blood sugar can damage the eyes, kidneys, nerves, heart, and blood vessels.
+• Diagnosis requires appropriate blood-glucose testing rather than symptoms alone.
+• Regular medical follow-up, healthy eating, physical activity, and prescribed treatment can help control blood sugar."
+Impetigo,"• Impetigo is a contagious bacterial infection of the skin that commonly affects children but can occur at any age.
+• It often begins as small red sores or blisters that break open and form characteristic yellowish or honey-colored crusts.
+• The infection can spread through direct skin contact or by sharing towels, clothing, or other personal items.
+• Keeping the affected area clean and avoiding scratching can help reduce spread.
+• Treatment may require medicines prescribed by a healthcare professional depending on the extent of infection.
+• Rapidly spreading redness, significant swelling, fever, severe pain, or involvement around the eyes requires prompt medical assessment."
+Hypertension,"• Hypertension means blood pressure remains higher than the healthy range over time.
+• High blood pressure often causes no noticeable symptoms, which is why regular blood-pressure checks are important.
+• When symptoms occur, they may include headache, dizziness, or visual changes, but these symptoms are not specific to hypertension.
+• Untreated hypertension increases the risk of heart disease, stroke, kidney disease, and other complications.
+• Healthy eating, regular physical activity, limiting excess salt, avoiding tobacco, and taking prescribed medicines can help control blood pressure.
+• Extremely high blood pressure with chest pain, severe headache, weakness, confusion, vision changes, or difficulty breathing requires urgent medical assessment."
+Peptic ulcer diseae,"• Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus.
+• An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer."
+Dimorphic hemorrhoids(piles),"• Hemorrhoids, also spelled haemorrhoids, are vascular structures in the anal canal.
+• In their.
+• Other names, Haemorrhoids, piles, hemorrhoidal disease."
+Common Cold,"• The common cold is a viral infection of the upper respiratory tract.
+• Typical symptoms include a runny or blocked nose, sneezing, sore throat, mild cough, and tiredness.
+• Some people may have a mild fever or headache.
+• Colds usually improve on their own, but symptoms can take several days to settle.
+• Rest, adequate fluids, and appropriate symptom relief can help you feel more comfortable.
+• Seek medical advice if symptoms are unusually severe, breathing becomes difficult, fever is persistent or very high, or symptoms worsen instead of improving."
+Chicken pox,"• Chickenpox is a contagious infection caused by the varicella-zoster virus.
+• It commonly causes an itchy rash that develops into small fluid-filled blisters and then crusts.
+• Fever, tiredness, headache, and reduced appetite may occur before or along with the rash.
+• The rash often appears in several stages, so new spots and healing spots may be present at the same time.
+• Avoid scratching the rash and avoid close contact with people who are pregnant, immunocompromised, or not immune to chickenpox.
+• Seek medical advice if symptoms are severe, the skin becomes very red or painful, breathing problems develop, or the person is at higher risk of complications."
+Cervical spondylosis,"• Cervical spondylosis is age-related wear and tear affecting the bones, discs, and joints in the neck.
+• It may cause neck pain, stiffness, reduced neck movement, or pain spreading toward the shoulders or arms.
+• Some people develop headaches or tingling, numbness, or weakness in an arm when nerves are affected.
+• Symptoms can develop gradually and may vary from person to person.
+• Gentle physical activity, posture improvement, and treatments recommended by a healthcare professional may help.
+• New or worsening weakness, problems with walking, loss of coordination, or loss of bladder or bowel control requires prompt medical evaluation."
+Hyperthyroidism,"• Hyperthyroidism occurs when the thyroid gland produces too much thyroid hormone.
+• Symptoms can include unexplained weight loss, fast or irregular heartbeat, sweating, heat intolerance, nervousness, tremor, and difficulty sleeping.
+• Some people may have increased bowel movements, muscle weakness, or changes in menstrual patterns.
+• Symptoms can vary depending on the cause and severity.
+• Blood tests are used to confirm the diagnosis and determine the cause.
+• A very fast or irregular heartbeat, severe weakness, confusion, high fever, or severe worsening of symptoms requires urgent medical care."
+Urinary tract infection,"• A urinary tract infection (UTI) is an infection affecting part of the urinary system, such as the bladder or urethra.
+• Common symptoms include burning or pain during urination, needing to urinate frequently, urgency, or lower abdominal discomfort.
+• Urine may sometimes appear cloudy or have a strong smell, although these signs alone do not confirm an infection.
+• A UTI can sometimes spread to the kidneys and cause fever, chills, back or side pain, nausea, or vomiting.
+• Medical assessment and appropriate testing may be needed, especially when symptoms are severe or recurrent.
+• Fever with back or side pain, vomiting, confusion, or severe weakness requires prompt medical care."
+Varicose veins,"• Varicose veins are enlarged, twisted veins that most often appear in the legs.
+• They may look blue or purple and can cause aching, heaviness, swelling, itching, or discomfort after standing for a long time.
+• They occur when valves in the veins do not move blood back toward the heart effectively.
+• Regular movement, avoiding prolonged standing or sitting, and elevating the legs may help with symptoms.
+• A healthcare professional can assess persistent symptoms and discuss treatment options when needed.
+• Sudden leg swelling, severe pain, redness, warmth, or shortness of breath may indicate a more serious problem and requires urgent assessment."
+AIDS,"• AIDS is the advanced stage of infection with HIV, a virus that weakens the immune system.
+• A severely weakened immune system can make a person more vulnerable to infections and certain cancers.
+• Possible symptoms vary widely and may include persistent fever, unexplained weight loss, prolonged diarrhea, night sweats, or recurrent infections.
+• HIV infection is diagnosed with appropriate laboratory testing; symptoms alone cannot confirm HIV or AIDS.
+• Modern treatment can control HIV and greatly reduce the risk of progression to AIDS when started and taken correctly.
+• Anyone concerned about possible HIV exposure should seek confidential medical testing and professional advice."
+Paralysis (brain hemorrhage),"• A brain hemorrhage is bleeding inside or around the brain and can damage brain tissue.
+• It may cause sudden weakness or paralysis, especially on one side of the body.
+• Other warning signs can include sudden severe headache, facial drooping, difficulty speaking, confusion, vomiting, loss of balance, or loss of consciousness.
+• A brain hemorrhage is a medical emergency and cannot be diagnosed safely from symptoms alone.
+• If these symptoms begin suddenly, emergency medical services should be contacted immediately.
+• Do not wait for symptoms to improve or attempt to drive the affected person yourself if emergency transport is available."
+Typhoid,"• Typhoid fever is a bacterial infection, usually caused by Salmonella Typhi, and is commonly spread through contaminated food or water.
+• Symptoms may include prolonged fever, weakness, headache, abdominal discomfort, reduced appetite, and changes in bowel habits.
+• Some people may develop diarrhea, constipation, nausea, or vomiting.
+• Diagnosis usually requires medical evaluation and appropriate laboratory testing.
+• Prescribed antibiotics should be taken exactly as directed because incomplete treatment can lead to complications or antibiotic resistance.
+• Persistent high fever, severe abdominal pain, confusion, dehydration, or worsening symptoms requires medical attention."
+Hepatitis B,"• Hepatitis B is a viral infection that affects the liver and can be short-term or become long-term.
+• Possible symptoms include tiredness, nausea, abdominal discomfort, dark urine, pale stools, and yellowing of the skin or eyes.
+• Many people with hepatitis B have no symptoms, so testing is important when exposure is possible.
+• Long-term infection can cause liver scarring, liver failure, or liver cancer.
+• Hepatitis B can be prevented with vaccination and can be managed with medical monitoring and, when needed, antiviral treatment.
+• People with suspected exposure should seek medical advice about testing, vaccination, and appropriate follow-up."
+Fungal infection,"• A fungal infection happens when fungi grow excessively on the skin or other body areas.
+• Common signs include itching, redness, irritation, scaling, peeling, or a ring-shaped rash.
+• The affected skin may become dry, cracked, or uncomfortable.
+• Fungal infections can spread through close contact or by sharing towels, clothing, shoes, or other personal items.
+• Keeping the affected area clean and dry can help prevent the infection from spreading.
+• A healthcare professional can confirm the type of fungal infection and recommend appropriate antifungal treatment."
+Hepatitis C,"• Hepatitis C is a viral infection that affects the liver and is mainly spread through infected blood.
+• Many people have no symptoms for years, while others may experience tiredness, nausea, abdominal discomfort, dark urine, or jaundice.
+• Long-term infection can cause liver inflammation, scarring, cirrhosis, or liver cancer.
+• A blood test is needed to determine whether a person has hepatitis C.
+• Modern antiviral treatments can cure most hepatitis C infections when appropriately diagnosed and treated.
+• Anyone who may have been exposed should seek medical testing and professional advice rather than relying on symptoms."
+Migraine,"• Migraine is a neurological condition that can cause repeated attacks of moderate to severe headache.
+• Pain is often throbbing or pulsating and may occur on one side of the head, although it can affect both sides.
+• Nausea, vomiting, and increased sensitivity to light, sound, or smells are common.
+• Some people experience an aura before or during a migraine, such as temporary visual changes, tingling, or difficulty speaking.
+• Triggers can include lack of sleep, stress, skipped meals, dehydration, hormonal changes, or certain foods.
+• A sudden, extremely severe headache or a headache with new weakness, confusion, fainting, or speech problems requires urgent medical attention."
+Bronchial Asthma,"• Bronchial asthma is a long-term condition in which the airways become inflamed and can narrow temporarily.
+• Symptoms may include wheezing, coughing, chest tightness, and shortness of breath.
+• Symptoms can be triggered by allergens, smoke, air pollution, exercise, respiratory infections, cold air, or other individual triggers.
+• Asthma symptoms can vary over time and may become worse at night or early in the morning.
+• Following an individualized asthma treatment plan and using prescribed inhalers correctly are important for control.
+• Severe difficulty breathing, inability to speak normally because of breathlessness, bluish lips, or rapidly worsening symptoms requires emergency care."
+Alcoholic hepatitis,"• Alcoholic hepatitis is inflammation and injury of the liver associated with heavy alcohol use.
+• Symptoms may include yellowing of the skin or eyes, abdominal pain, loss of appetite, nausea, fever, weakness, and weight loss.
+• The condition can range from mild to life-threatening and may occur with or without long-standing liver disease.
+• Stopping alcohol use is an important part of treatment, but people who drink heavily should seek medical advice before stopping suddenly because withdrawal can be dangerous.
+• Medical assessment may include blood tests and liver imaging or other investigations.
+• Confusion, vomiting blood, black stools, severe abdominal swelling, or rapidly worsening jaundice requires emergency medical care."
+Jaundice,"• Jaundice causes the skin and the whites of the eyes to become yellow because of increased bilirubin in the blood.
+• Other possible signs include dark urine, pale stools, itching, tiredness, nausea, or abdominal discomfort.
+• Jaundice is a sign rather than a single disease and can have causes involving the liver, gallbladder, bile ducts, blood, or other conditions.
+• New jaundice should be medically evaluated to identify its cause.
+• Avoid self-medicating with unprescribed medicines or supplements when jaundice is present.
+• Jaundice accompanied by severe abdominal pain, confusion, bleeding, fever, or rapidly worsening illness requires urgent medical care."
+Hepatitis E,"• Hepatitis E is a viral infection that affects the liver and is commonly associated with contaminated food or water.
+• Possible symptoms include tiredness, nausea, vomiting, abdominal discomfort, fever, dark urine, pale stools, and jaundice.
+• Many people recover, but the infection can be more serious in some groups, particularly during pregnancy or in people with weakened immune systems.
+• Safe drinking water, food hygiene, and handwashing can reduce the risk of infection.
+• Medical evaluation is important when hepatitis E is suspected.
+• Severe vomiting, dehydration, confusion, significant bleeding, or worsening jaundice requires urgent medical attention."
+Dengue,"• Dengue is a viral infection spread mainly by infected Aedes mosquitoes.
+• Common symptoms include sudden fever, severe headache, pain behind the eyes, muscle and joint pain, nausea, and rash.
+• Some people develop warning signs after the fever begins to improve, including severe abdominal pain, persistent vomiting, bleeding, extreme weakness, or unusual sleepiness.
+• Dengue can sometimes cause dangerous bleeding or shock, so warning signs should not be ignored.
+• Adequate fluids and medical guidance are important, especially during fever.
+• Seek urgent medical care if bleeding, severe abdominal pain, repeated vomiting, breathing difficulty, confusion, or marked weakness occurs."
+Hepatitis D,"• Hepatitis D is a viral liver infection that occurs only in people who have hepatitis B infection.
+• It can cause symptoms such as tiredness, nausea, abdominal discomfort, dark urine, pale stools, and yellowing of the skin or eyes.
+• Hepatitis D can make liver disease more severe in some people.
+• Testing is needed to identify hepatitis D because symptoms are not specific.
+• Preventing hepatitis B through vaccination also helps prevent hepatitis D.
+• People with hepatitis B should discuss appropriate monitoring and testing with a healthcare professional."
+Heart attack,"• A heart attack occurs when blood flow to part of the heart muscle becomes blocked, causing damage to the heart.
+• A common warning sign is pressure, squeezing, fullness, or pain in the center or left side of the chest.
+• Pain or discomfort may spread to the arm, shoulder, back, neck, jaw, or upper abdomen.
+• Other symptoms can include shortness of breath, sweating, nausea, dizziness, or unusual weakness.
+• Symptoms can be different in women, older adults, and people with diabetes, and chest pain may not always be prominent.
+• A suspected heart attack is an emergency: seek emergency medical care immediately rather than waiting for symptoms to disappear."
+Pneumonia,"• Pneumonia is an infection or inflammation of the lungs that can make breathing difficult.
+• Symptoms may include cough, fever, chills, chest pain, shortness of breath, weakness, and sometimes mucus production.
+• The cause may be bacterial, viral, fungal, or less commonly related to other conditions.
+• Older adults, young children, and people with certain long-term health problems may have a higher risk of severe illness.
+• Diagnosis may require a physical examination and sometimes chest imaging or laboratory tests.
+• Difficulty breathing, blue or gray lips, confusion, severe chest pain, or rapidly worsening symptoms requires urgent medical care."
+Arthritis,"• Arthritis is a general term for conditions that cause inflammation or other problems in the joints.
+• Common symptoms include joint pain, stiffness, swelling, tenderness, and reduced movement.
+• Different types of arthritis have different causes, treatments, and patterns of symptoms.
+• Symptoms that are persistent, worsening, or affecting daily activities should be evaluated to identify the specific type.
+• Regular movement and appropriate exercises can help many people, but the right plan depends on the cause.
+• A hot, very swollen joint with fever or sudden inability to move a joint requires prompt medical evaluation."
+Gastroenteritis,"• Gastroenteritis is inflammation or infection of the stomach and intestines.
+• Common symptoms include diarrhea, vomiting, nausea, stomach cramps, and sometimes fever.
+• It can be caused by viruses, bacteria, parasites, contaminated food or water, or contact with an infected person.
+• The main short-term concern is dehydration, especially in children, older adults, and people who are already unwell.
+• Replacing lost fluids and electrolytes is important when vomiting or diarrhea occurs.
+• Seek medical care for severe dehydration, blood in stool or vomit, persistent high fever, severe abdominal pain, or symptoms that do not improve."
+Tuberculosis,"• Tuberculosis (TB) is an infection caused by Mycobacterium tuberculosis, most commonly affecting the lungs.
+• Possible symptoms include a cough lasting several weeks, fever, night sweats, tiredness, loss of appetite, and unexplained weight loss.
+• Some people may cough up blood, which requires prompt medical assessment.
+• TB can spread through the air when a person with infectious lung TB coughs, speaks, or sneezes.
+• Diagnosis requires medical testing; symptoms alone cannot confirm TB.
+• TB is treatable, but prescribed medicines must be taken for the full recommended course to prevent treatment failure and drug resistance."

@@ -1,0 +1,398 @@
+disease,precaution_1,precaution_2,precaution_3,precaution_4
+Drug Reaction,"• Keep an updated list of all medicines, supplements, and products you use.
+• Tell every healthcare professional about previous medicine reactions before starting a new medicine.
+• Do not restart a medicine that caused a serious reaction unless specifically instructed by a qualified healthcare professional.
+• Do not share prescription medicines with other people.
+• Follow the prescribed dose and schedule; do not take extra doses to compensate for a missed dose unless instructed.
+• Check with a pharmacist or healthcare professional before combining medicines, over-the-counter products, or supplements.
+• Parents and caregivers should verify age-appropriate doses for babies and children.
+• Pregnant or breastfeeding women should consult a healthcare professional before taking new medicines.
+• Older adults should have regular medication reviews because drug interactions and side effects can be more likely.
+• Emergency symptoms such as breathing difficulty, throat/tongue swelling, fainting, or widespread blistering require immediate medical attention.",consult nearest hospital,stop taking drug,follow up
+Malaria,"• Seek medical testing promptly when malaria is suspected, especially after travel or residence in a malaria-risk area.
+• Take antimalarial treatment exactly as prescribed and complete the recommended course.
+• Use mosquito nets, repellents, protective clothing, and screened or air-conditioned rooms in malaria-risk areas.
+• Reduce mosquito exposure especially from dusk through dawn when relevant to the local mosquito species.
+• Do not self-treat with leftover antimalarial medicines because treatment depends on the parasite and geographic area.
+• Pregnant women should seek prompt medical care for suspected malaria because malaria can be more serious during pregnancy.
+• Children and babies with fever after possible malaria exposure should receive prompt medical evaluation.
+• Older adults and people with weakened immunity may be at higher risk of severe illness and should seek care early.
+• High fever with confusion, seizures, breathing difficulty, severe weakness, jaundice, or loss of consciousness requires emergency care.",avoid oily food,avoid non veg food,keep mosquitos out
+Allergy,"• Identify and avoid known allergy triggers whenever possible.
+• Keep windows and indoor areas clean if dust or pollen triggers symptoms; wash bedding regularly.
+• Wash hands and face after outdoor exposure when pollen is a known trigger.
+• Avoid smoke, strong fragrances, and other irritants that worsen symptoms.
+• Take prescribed allergy medicines exactly as directed and do not exceed the recommended dose.
+• Keep a written list of known medicine and food allergies and show it to healthcare professionals.
+• For children and babies, use only age-appropriate medicines and doses recommended by a healthcare professional.
+• Pregnant or breastfeeding women should ask a healthcare professional before starting allergy medicines.
+• People with a history of severe allergic reactions should follow their emergency action plan and carry prescribed emergency medication when advised.
+• Difficulty breathing, throat or tongue swelling, fainting, or rapidly worsening symptoms require emergency medical attention.",cover area with bandage,,use ice to compress itching
+Hypothyroidism,"• Take prescribed thyroid hormone medicine consistently, usually at the same time each day as instructed.
+• Follow instructions about taking thyroid medicine in relation to food and other medicines.
+• Attend regular thyroid blood tests so the dose can be adjusted safely.
+• Do not change or stop thyroid medicine based only on symptoms.
+• Do not take high-dose iodine or thyroid supplements unless specifically recommended.
+• Pregnant women with hypothyroidism need timely thyroid testing and dose monitoring because thyroid hormone requirements can change during pregnancy.
+• Children with suspected hypothyroidism require prompt evaluation because thyroid hormone is important for growth and development.
+• Older adults may be more sensitive to changes in thyroid hormone levels and should have doses adjusted carefully.
+• Report new palpitations, chest pain, severe weakness, or major changes after a dose adjustment.
+• Seek medical advice for severe symptoms or signs of a serious complication rather than increasing medicine yourself.",exercise,eat healthy,get proper sleep
+Psoriasis,"• Use prescribed skin treatments consistently and follow the recommended application schedule.
+• Keep the skin moisturized to reduce dryness and cracking.
+• Avoid scratching or picking plaques.
+• Identify personal triggers such as skin injury, stress, infections, smoking, or alcohol and discuss them with a healthcare professional.
+• Do not stop systemic psoriasis medicines suddenly without medical advice.
+• Protect the skin from burns; if phototherapy is prescribed, follow the exact exposure schedule.
+• Pregnant women should review psoriasis medicines with a healthcare professional because some treatments are not suitable during pregnancy.
+• Children with extensive or persistent psoriasis should receive age-appropriate dermatology care.
+• Older adults should have medicine interactions and infection risks reviewed when systemic treatment is used.
+• New painful or swollen joints may indicate psoriatic arthritis and should be assessed.
+• Widespread redness, severe skin pain, fever, or rapidly worsening symptoms requires urgent medical attention.",stop bleeding using pressure,consult doctor,salt baths
+GERD,"• Eat smaller meals rather than very large meals.
+• Avoid lying down for about 2–3 hours after eating.
+• Identify and limit foods that clearly trigger your symptoms, such as fatty foods, spicy foods, chocolate, caffeine, or acidic foods.
+• Maintain a healthy weight when medically appropriate because excess abdominal weight can worsen reflux.
+• Raise the head of the bed if nighttime reflux is frequent; simply using extra pillows may not provide the same effect.
+• Avoid smoking and limit alcohol because they can worsen reflux symptoms.
+• Take prescribed reflux medicines according to the healthcare professional's instructions.
+• Pregnant women may experience increased reflux; discuss persistent symptoms and medicine choices with a healthcare professional.
+• Children with frequent reflux, poor weight gain, feeding problems, or breathing-related symptoms should be assessed by a pediatric professional.
+• Seek urgent care for vomiting blood, black stools, severe chest pain, fainting, or significant difficulty swallowing.",avoid lying down after eating,maintain healthy weight,exercise
+Chronic cholestasis,"• Follow regular liver-function monitoring and medical appointments.
+• Avoid alcohol unless a healthcare professional confirms that it is safe.
+• Do not start herbal products, supplements, or non-prescribed medicines without checking with a healthcare professional because some can injure the liver.
+• Take prescribed medicines consistently and report new side effects.
+• Maintain a balanced diet and follow any nutrition plan recommended for liver or bile-flow problems.
+• Discuss vitamin supplementation with a healthcare professional if bile-flow problems may affect absorption of fat-soluble vitamins.
+• Keep skin moisturized and avoid very hot baths if itching is severe.
+• Pregnant women with new or severe itching, especially without a visible rash, should seek medical evaluation promptly.
+• Older adults should review all medicines with a healthcare professional because multiple medicines can affect liver function.
+• Seek urgent care for severe abdominal pain, confusion, bleeding, rapidly worsening jaundice, or severe weakness.",anti itch medicine,consult doctor,eat healthy
+hepatitis A,"• Rest and maintain adequate fluid intake unless fluid restriction has been prescribed.
+• Avoid alcohol while recovering and follow liver-related medical advice.
+• Wash hands thoroughly with soap and water, especially after using the toilet and before handling food.
+• Avoid preparing food for others while infectious according to public-health guidance.
+• Use safe drinking water and properly cooked food.
+• Do not share personal items that may be contaminated with body fluids.
+• Follow medical advice about vaccination and post-exposure prevention for household or close contacts.
+• Pregnant women with suspected hepatitis A should seek medical advice promptly.
+• Children may have mild or no symptoms but can still spread infection; follow public-health guidance about school or childcare.
+• Older adults and people with chronic liver disease may be at higher risk of severe illness and should seek medical care promptly when symptoms develop.
+• Severe vomiting, dehydration, confusion, bleeding, or rapidly worsening jaundice requires urgent medical care.",wash hands through,avoid fatty spicy food,medication
+Osteoarthristis,• acetaminophen.,consult nearest hospital,follow up,salt baths
+(vertigo) Paroymsal  Positional Vertigo,"• Move slowly when changing head or body position if sudden movement triggers spinning.
+• Sit or lie down immediately if an attack begins to reduce the risk of falling.
+• Remove trip hazards and use support when walking if balance is affected.
+• Follow professionally recommended repositioning exercises when BPPV has been confirmed.
+• Do not drive, climb ladders, or operate machinery while severe dizziness is present.
+• Stay adequately hydrated unless fluid restriction has been prescribed.
+• Pregnant women with persistent or severe dizziness should be assessed because not all vertigo is BPPV.
+• Children with recurrent vertigo should receive medical evaluation rather than being assumed to have BPPV.
+• Older adults have a higher risk of falls; home safety measures and mobility support may be especially important.
+• Vertigo with new weakness, severe headache, fainting, double vision, speech difficulty, or inability to walk requires urgent medical assessment.",avoid sudden change in body,avoid abrupt head movment,relax
+Hypoglycemia,"• Know the warning signs of low blood sugar, such as sweating, shaking, hunger, dizziness, confusion, and fast heartbeat.
+• Carry a fast-acting source of glucose if your healthcare professional has advised you that you are at risk.
+• Follow your individualized diabetes plan for treating low blood sugar.
+• Do not drive or operate machinery if you are experiencing symptoms of hypoglycemia.
+• Review diabetes medicines with a healthcare professional if low blood sugar episodes are repeated.
+• Do not skip meals when using medicines that can cause hypoglycemia unless your treatment plan specifically allows it.
+• Caregivers of children should know how to recognize and respond to low blood sugar according to the child's medical plan.
+• Pregnant women with diabetes should discuss glucose targets and hypoglycemia management with their healthcare team.
+• Older adults may have less obvious warning symptoms and should have medication and glucose targets reviewed regularly.
+• Seizures, loss of consciousness, severe confusion, or inability to swallow safely requires emergency assistance.",check in pulse,drink sugary drinks,consult doctor
+Acne,"• Wash affected skin gently with a mild cleanser; avoid aggressive scrubbing.
+• Avoid squeezing or picking pimples because this can increase inflammation, scarring, and dark marks.
+• Use non-comedogenic skin-care and cosmetic products when possible.
+• Follow acne treatment consistently and give it adequate time to work.
+• Do not use multiple harsh acne products at the same time unless recommended because excessive irritation can worsen the skin.
+• Change pillowcases and clean items that regularly contact the face when appropriate.
+• Pregnant women should ask a healthcare professional before using acne medicines because some treatments are unsafe during pregnancy.
+• Teenagers should use age-appropriate products and avoid adult prescription medicines without professional guidance.
+• Older adults with new acne-like eruptions should have the cause assessed because other skin conditions or medicines can produce similar lesions.
+• Severe painful acne, rapidly worsening lesions, or scarring should be evaluated by a healthcare professional.",avoid fatty spicy food,drink plenty of water,avoid too many products
+Diabetes,"• Monitor blood glucose as recommended and keep a record when your healthcare professional asks you to do so.
+• Take diabetes medicines or insulin exactly as prescribed.
+• Eat regular, balanced meals and avoid repeatedly skipping meals when using medicines that can cause low blood sugar.
+• Stay physically active according to your healthcare professional's advice.
+• Inspect your feet regularly for cuts, blisters, redness, swelling, or wounds and seek care for injuries that do not heal.
+• Maintain regular eye, kidney, blood-pressure, and cholesterol checks as recommended.
+• Avoid smoking and limit alcohol because both can increase diabetes-related risks.
+• Carry a source of fast-acting glucose if you have been advised that you are at risk of hypoglycemia.
+• Pregnant women with diabetes or diabetes during pregnancy require closer blood-sugar monitoring and pregnancy-specific medical guidance.
+• Children and adolescents with diabetes need age-appropriate monitoring and support from caregivers and healthcare professionals.
+• Older adults may have less obvious symptoms of low blood sugar; medication doses should be reviewed regularly.
+• Confusion, loss of consciousness, severe breathing difficulty, or signs of very high or very low blood sugar require urgent medical care.",exercise,consult doctor,follow up
+Impetigo,"• Keep infected areas clean and follow the treatment prescribed by a healthcare professional.
+• Wash hands thoroughly after touching the affected skin or applying treatment.
+• Do not share towels, bedding, clothing, razors, or other personal items.
+• Keep fingernails short and discourage scratching, especially in children.
+• Wash clothing, towels, and bedding regularly according to healthcare guidance.
+• Keep children away from school or childcare for the period recommended by local guidance and the treating professional.
+• Pregnant women should seek medical advice for treatment choices rather than self-treating.
+• Babies and young children with rapidly spreading sores, fever, or poor feeding need prompt assessment.
+• Older adults or people with weakened immunity should seek care early if the infection spreads.
+• Rapidly spreading redness, swelling, fever, severe pain, or infection near the eyes requires prompt medical attention.",use antibiotics,remove scabs with wet compressed cloth,consult doctor
+Hypertension,"• Check blood pressure regularly as recommended and keep a record if advised.
+• Take prescribed blood-pressure medicines consistently and do not stop them suddenly without medical advice.
+• Limit excess dietary salt and choose a balanced diet rich in vegetables, fruits, whole grains, and appropriate protein sources.
+• Maintain regular physical activity suitable for your age and health status.
+• Avoid smoking and limit alcohol.
+• Maintain a healthy weight when medically appropriate.
+• Manage sleep and stress as part of overall cardiovascular health.
+• Pregnant women should have regular blood-pressure monitoring because pregnancy-related hypertension can become serious.
+• Children and teenagers with repeated high blood pressure require proper medical evaluation rather than adult self-treatment.
+• Older adults should stand up slowly if medicines cause dizziness and should have medication doses reviewed when falls or low blood pressure occur.
+• Chest pain, severe shortness of breath, weakness on one side, confusion, vision loss, or severe headache with very high blood pressure requires urgent medical care.",salt baths,reduce stress,get proper sleep
+Peptic ulcer diseae,• avoid fatty spicy food.,consume probiotic food,eliminate milk,limit alcohol
+Dimorphic hemmorhoids(piles),"• Increase dietary fiber gradually through vegetables, fruits, whole grains, and other appropriate high-fiber foods.
+• Drink adequate fluids unless a healthcare professional has advised fluid restriction.
+• Avoid straining during bowel movements and do not sit on the toilet for unnecessarily long periods.
+• Stay physically active to help maintain regular bowel movements.
+• Keep the anal area clean and dry without excessive scrubbing.
+• Use treatments recommended by a healthcare professional rather than prolonged self-treatment.
+• Pregnant women commonly develop hemorrhoids; discuss persistent bleeding or severe pain with an obstetric or healthcare professional.
+• Children with rectal bleeding should be medically assessed rather than assuming it is hemorrhoids.
+• Older adults with new rectal bleeding should be evaluated because bleeding can have causes other than hemorrhoids.
+• Heavy bleeding, dizziness, black stools, severe pain, or fainting requires prompt medical care.",consume witch hazel,warm bath with epsom salt,consume alovera juice
+Common Cold,"• Wash hands regularly and avoid touching the eyes, nose, and mouth unnecessarily.
+• Cover coughs and sneezes with a tissue or the elbow and dispose of tissues properly.
+• Avoid close contact with others when actively ill, especially vulnerable people.
+• Rest adequately and drink enough fluids.
+• Use medicines only according to the recommended age and dose.
+• Do not give aspirin to children or teenagers unless specifically advised by a healthcare professional.
+• Babies and young children with poor feeding, reduced urination, breathing difficulty, or unusual sleepiness should be assessed promptly.
+• Pregnant women should check with a healthcare professional before taking cold medicines, especially combination products.
+• Older adults may develop complications more easily and should seek advice when symptoms are severe or worsening.
+• Seek medical care for significant breathing difficulty, persistent high fever, chest pain, confusion, dehydration, or worsening symptoms.",take vapour,avoid cold food,keep fever in check
+Chicken pox,"• Avoid close contact with people who are pregnant, immunocompromised, newborn, or not immune to chickenpox while contagious.
+• Keep fingernails short and avoid scratching to reduce skin infection and scarring.
+• Keep the skin clean and use gentle measures recommended by a healthcare professional to reduce itching.
+• Do not give aspirin to children or teenagers with chickenpox unless specifically directed by a healthcare professional.
+• Use age-appropriate fever or pain medicines according to professional advice.
+• Children should stay home from school or childcare until the lesions have crusted over and local guidance is met.
+• Pregnant women exposed to chickenpox or developing symptoms should contact a healthcare professional promptly.
+• Newborn babies and people with weakened immune systems may need urgent specialist advice after exposure.
+• Seek medical care if skin lesions become increasingly red, swollen, painful, or produce pus.
+• Breathing difficulty, severe headache, confusion, persistent vomiting, or rapidly worsening illness requires urgent medical attention.",consume neem leaves,take vaccine,avoid public places
+Cervical spondylosis,"• Maintain good neck and upper-body posture during study, work, and screen use.
+• Take regular movement breaks rather than keeping the neck in one position for long periods.
+• Use exercises or physiotherapy recommended by a qualified professional.
+• Avoid forceful neck manipulation or unapproved exercises that increase pain or neurological symptoms.
+• Use prescribed pain medicines according to instructions and avoid combining medicines without professional advice.
+• Use an appropriately supportive sleeping position and pillow that keeps the neck comfortable.
+• Older adults should take extra care with balance and fall prevention if neck symptoms affect walking or stability.
+• Pregnant women should ask a healthcare professional before using pain medicines or starting new treatments.
+• Children with persistent neck pain, weakness, or neurological symptoms need professional assessment rather than assuming age-related spondylosis.
+• New weakness, difficulty walking, loss of coordination, or bladder/bowel control problems require prompt medical assessment.",exercise,take otc pain reliver,consult doctor
+Hyperthyroidism,"• Take prescribed treatment exactly as directed and attend thyroid blood-test appointments.
+• Do not start iodine-containing supplements or thyroid products without medical advice.
+• Limit excessive caffeine if it worsens palpitations, tremor, or anxiety.
+• Protect the eyes from irritation if thyroid eye symptoms occur and follow specialist advice.
+• Pregnant women with hyperthyroidism need specialist monitoring because both uncontrolled disease and some medicines can affect pregnancy.
+• Children and adolescents with suspected hyperthyroidism should receive specialist evaluation.
+• Older adults may have less obvious symptoms but can develop serious heart complications; regular monitoring is important.
+• Report fever, severe sore throat, or unusual illness promptly if taking antithyroid medicines because rare but serious blood complications can occur.
+• Seek urgent care for very fast or irregular heartbeat, severe weakness, confusion, high fever, or severe worsening symptoms.",massage,use lemon balm,take radioactive iodine treatment
+Urinary tract infection,"• Drink adequate fluids unless a healthcare professional has advised fluid restriction.
+• Do not delay urination for long periods when you need to go.
+• Maintain good personal hygiene and wipe from front to back after using the toilet when applicable.
+• Urinate after sexual activity if this has been recommended as part of your prevention plan.
+• Take prescribed antibiotics exactly as directed and complete the course.
+• Do not use leftover antibiotics or share antibiotics with others.
+• Pregnant women with UTI symptoms should seek prompt medical evaluation because untreated infection can cause complications.
+• Babies and young children with fever, poor feeding, vomiting, or unusual sleepiness need prompt medical assessment because they may not describe urinary symptoms.
+• Older adults with fever, weakness, confusion, or urinary symptoms should be assessed promptly.
+• Fever with back or side pain, vomiting, severe weakness, or confusion can indicate kidney involvement and requires prompt medical care.",increase vitamin c intake,drink cranberry juice,take probiotics
+Varicose veins,"• Avoid standing or sitting in the same position for very long periods; move regularly.
+• Elevate the legs when resting if this reduces swelling.
+• Maintain regular walking or other appropriate physical activity.
+• Maintain a healthy weight when medically appropriate.
+• Use compression stockings only when recommended and properly fitted by a healthcare professional.
+• Keep the skin of the legs moisturized and monitor for sores or skin changes.
+• Pregnancy can increase varicose veins; discuss severe swelling, pain, or skin changes with a healthcare professional.
+• Older adults should be assessed for falls and circulation problems when leg swelling or pain affects mobility.
+• Children with unusual or rapidly developing varicose veins should receive medical evaluation.
+• Sudden one-sided leg swelling, warmth, redness, severe pain, chest pain, or shortness of breath requires urgent medical assessment.",use oinments,use vein compression,dont stand still for long
+AIDS,"• Take HIV treatment exactly as prescribed and avoid skipping doses.
+• Attend regular medical appointments to monitor viral load, immune status, and treatment response.
+• Use condoms or other recommended barrier protection to reduce transmission of HIV and other sexually transmitted infections.
+• Do not share needles, syringes, razors, toothbrushes, or other items that may carry blood.
+• Keep vaccinations and preventive healthcare up to date according to medical advice.
+• Seek prompt medical care for fever, persistent cough, unexplained weight loss, prolonged diarrhea, or recurrent infections.
+• Pregnant women living with HIV should receive specialized medical care because appropriate treatment can greatly reduce transmission to the baby.
+• Babies born to mothers with HIV need specialist testing, preventive treatment, and follow-up according to local medical protocols.
+• Older adults with HIV should receive regular review of medicines and other health conditions because interactions can occur.
+• Do not rely on symptoms to determine HIV status; testing and professional medical evaluation are required.",wear ppe if possible,consult doctor,follow up
+Paralysis (brain hemorrhage),"• Treat sudden neurological symptoms as an emergency rather than waiting for them to improve.
+• Control blood pressure and other cardiovascular risk factors according to medical advice.
+• Do not stop prescribed blood-pressure, blood-thinning, or other medicines without professional guidance.
+• Avoid smoking and limit alcohol to reduce vascular risk.
+• After a hemorrhage, follow the rehabilitation plan for movement, speech, swallowing, and daily activities.
+• Prevent falls and use mobility aids when recommended.
+• Caregivers should follow swallowing and feeding instructions if swallowing is impaired.
+• Older adults may need additional support for falls, medication management, and rehabilitation.
+• Pregnant or recently postpartum women with sudden severe headache, weakness, seizures, or neurological symptoms require emergency evaluation.
+• Any sudden facial drooping, arm weakness, speech difficulty, severe headache, seizure, loss of consciousness, or worsening paralysis requires emergency services immediately.",eat healthy,exercise,consult doctor
+Typhoid,"• Take the complete antibiotic course exactly as prescribed.
+• Use safe drinking water and eat properly cooked food.
+• Wash hands thoroughly after using the toilet and before preparing or eating food.
+• Avoid preparing food for others while infected until a healthcare professional confirms it is safe.
+• Do not share antibiotics or use leftover antibiotics because resistance and incorrect treatment can occur.
+• Follow-up testing may be required in some cases to confirm recovery or assess ongoing infection.
+• Pregnant women with suspected typhoid should seek medical advice promptly for pregnancy-appropriate treatment.
+• Children should be assessed by a healthcare professional for persistent fever rather than being treated with leftover medicines.
+• Older adults may become dehydrated or develop complications more quickly and should be monitored closely.
+• Persistent high fever, severe abdominal pain, confusion, intestinal bleeding, dehydration, or worsening symptoms requires prompt medical care.",antiboitic therapy,consult doctor,medication
+Hepatitis B,"• Get vaccinated against hepatitis B when recommended and ensure appropriate doses are completed.
+• Do not share needles, syringes, razors, toothbrushes, or other items that may carry blood.
+• Use barrier protection during sex when advised, especially if a partner's infection status is unknown.
+• Cover cuts and wounds and dispose of blood-contaminated materials safely.
+• Take prescribed antiviral treatment consistently when treatment is indicated.
+• Attend regular liver and hepatitis monitoring appointments.
+• Avoid excessive alcohol because it can increase liver damage.
+• Pregnant women should receive hepatitis B testing and appropriate medical care to reduce the risk of transmission to the baby.
+• Babies born to mothers with hepatitis B need timely preventive treatment and vaccination according to local medical protocols.
+• Older adults with hepatitis B should have regular review of liver health and medicines.
+• Do not rely on symptoms to determine infection; testing is required.",vaccination,eat healthy,medication
+Fungal infection,"• Keep the affected skin clean and completely dry; gently dry skin folds after bathing.
+• Do not share towels, clothes, socks, shoes, razors, or other personal items.
+• Change damp clothes, socks, and underwear promptly and wash them regularly.
+• Avoid scratching the affected area because broken skin can lead to a secondary bacterial infection.
+• Follow the complete antifungal treatment recommended by a healthcare professional; do not stop early simply because symptoms improve.
+• Do not apply steroid creams to a suspected fungal rash unless specifically prescribed, because steroids can worsen or mask some fungal infections.
+• For babies and children, seek professional advice before using antifungal medicines and keep the affected area dry.
+• For older adults or people with diabetes or reduced immunity, seek medical advice early because infections may be harder to treat.
+• Seek care if the infection spreads rapidly, becomes painful, produces pus, or does not improve with appropriate treatment.",use detol or neem in bathing water,keep infected area dry,use clean cloths
+Hepatitis C,"• Seek appropriate blood testing if you may have been exposed to hepatitis C.
+• Do not share needles, syringes, razors, toothbrushes, or equipment that may contain blood.
+• Cover open wounds and clean blood spills safely according to healthcare guidance.
+• Take prescribed antiviral treatment exactly as directed; modern treatment can cure most infections.
+• Avoid or minimize alcohol because it can worsen liver injury.
+• Do not start supplements or herbal products without checking with a healthcare professional.
+• Attend follow-up appointments to assess treatment response and liver health.
+• Pregnant women with hepatitis C should receive pregnancy-specific medical guidance and appropriate follow-up.
+• Children exposed to hepatitis C through pregnancy or other routes may require age-appropriate testing.
+• Older adults may need medication review because liver function and other medicines can affect treatment choices.
+• Seek care for jaundice, vomiting blood, black stools, severe abdominal swelling, or confusion.",vaccination,eat healthy,medication
+Migraine,"• Keep a regular sleep schedule and avoid large changes in sleep patterns.
+• Do not regularly skip meals; maintain adequate hydration.
+• Track headaches and possible triggers such as stress, poor sleep, dehydration, hormonal changes, or specific foods.
+• Rest in a quiet, dark environment during an attack if that provides relief.
+• Take prescribed migraine medicines early in an attack when instructed.
+• Avoid frequent use of pain medicines because medication-overuse headaches can develop.
+• Pregnant women should discuss migraine medicines with a healthcare professional because some medicines are not suitable during pregnancy.
+• Children and adolescents with frequent headaches should be evaluated rather than repeatedly treated with adult medicines.
+• Older adults with a new or changing headache pattern should receive medical assessment.
+• A sudden, extremely severe headache or headache with weakness, confusion, fainting, seizure, or speech difficulty requires emergency care.",reduce stress,use poloroid glasses in sun,consult doctor
+Bronchial Asthma,"• Use controller and rescue inhalers exactly according to your asthma action plan.
+• Learn and regularly review correct inhaler technique; ask a healthcare professional to check your technique.
+• Identify personal triggers such as smoke, dust, pollen, pets, exercise, cold air, or respiratory infections.
+• Avoid cigarette smoke and secondhand smoke.
+• Keep prescribed rescue medication available, especially when away from home.
+• Do not stop long-term asthma controller treatment without medical advice even when symptoms improve.
+• Children should have an age-appropriate asthma action plan shared with caregivers, school staff, or other responsible adults when appropriate.
+• Pregnant women with asthma should continue appropriate medical care rather than stopping treatment on their own.
+• Older adults should have inhaler technique and medication interactions reviewed regularly.
+• Seek emergency care for severe breathlessness, blue or gray lips, inability to speak normally, severe drowsiness, or rapidly worsening symptoms.",take deep breaths,get away from trigger,seek help
+Alcoholic hepatitis,"• Stop further alcohol exposure with a medically appropriate plan; people who drink heavily should seek professional advice before abruptly stopping because withdrawal can be dangerous.
+• Attend medical appointments for liver tests and assessment of disease severity.
+• Do not use unapproved herbal products or supplements marketed as liver cleanses.
+• Take prescribed medicines exactly as directed.
+• Follow nutrition advice from a healthcare professional; adequate nutrition is often important in liver disease.
+• Avoid unnecessary medicines that may further affect the liver and check with a healthcare professional before using them.
+• Pregnant women with alcohol-related liver concerns need prompt specialist medical care.
+• Older adults may have a higher risk of complications and medication interactions and should have regular review.
+• Seek urgent care for confusion, vomiting blood, black stools, severe abdominal swelling, fever, or rapidly worsening jaundice.
+• Do not assume that liver disease will improve without stopping the harmful exposure and receiving medical care.",consult doctor,medication,follow up
+Jaundice,"• Seek medical evaluation for new yellowing of the skin or eyes because jaundice has many possible causes.
+• Avoid alcohol until the cause has been assessed.
+• Do not start herbal remedies, supplements, or non-prescribed medicines without checking with a healthcare professional.
+• Drink adequate fluids unless a healthcare professional has prescribed fluid restriction.
+• Follow recommended blood tests and liver or gallbladder investigations.
+• Use medicines only as directed and report worsening yellowing or new symptoms.
+• Pregnant women with jaundice, severe itching, abdominal pain, or dark urine should seek prompt medical evaluation.
+• Babies with yellow skin or eyes require age-appropriate medical assessment, especially if jaundice appears during the first day of life or the baby is unusually sleepy or feeding poorly.
+• Older adults may have multiple possible causes of jaundice and should have their medicines and medical conditions reviewed.
+• Confusion, severe abdominal pain, fever, bleeding, vomiting, or rapidly worsening jaundice requires urgent medical care.",consume milk thistle,eat fruits and high fiberous food,medication
+Hepatitis E,"• Use safe drinking water and properly cooked food.
+• Wash hands thoroughly after using the toilet and before eating or preparing food.
+• Avoid alcohol while recovering and follow liver-related medical advice.
+• Take medicines only as recommended and avoid unnecessary supplements or herbal products.
+• Seek medical evaluation if jaundice, dark urine, persistent vomiting, or significant weakness develops.
+• Pregnant women with suspected hepatitis E should seek prompt medical care because severe disease can occur during pregnancy.
+• Infants and young children with significant vomiting, poor feeding, dehydration, or jaundice need medical assessment.
+• Older adults and people with weakened immunity may require closer monitoring.
+• Follow public-health advice if infection is confirmed.
+• Confusion, severe dehydration, significant bleeding, or rapidly worsening jaundice requires urgent medical care.",rest,consult doctor,medication
+Dengue,"• Seek medical evaluation when dengue is suspected, especially with high fever and significant body pain.
+• Drink adequate fluids and follow medical advice about hydration.
+• Rest and monitor symptoms carefully, including during the period when fever begins to improve.
+• Avoid aspirin and NSAID medicines such as ibuprofen or naproxen unless a healthcare professional specifically advises otherwise because of bleeding risk.
+• Use acetaminophen/paracetamol only according to the recommended dose and professional advice.
+• Prevent mosquito bites during illness to reduce the chance of mosquitoes spreading the virus to others.
+• Pregnant women with suspected dengue should seek prompt medical assessment.
+• Babies, young children, and older adults should be monitored closely for dehydration and worsening symptoms.
+• Watch particularly for severe abdominal pain, repeated vomiting, bleeding, unusual sleepiness, restlessness, or breathing difficulty.
+• Any warning sign or sudden deterioration requires urgent medical care.",avoid fatty spicy food,keep mosquitos away,keep hydrated
+Hepatitis D,"• Prevent hepatitis B through vaccination because hepatitis D requires hepatitis B infection.
+• If you have hepatitis B, follow medical advice about testing for hepatitis D.
+• Take prescribed treatment and attend regular liver monitoring appointments.
+• Avoid sharing needles, razors, toothbrushes, or other items that can carry blood.
+• Use appropriate barrier protection during sex when advised.
+• Avoid excessive alcohol and unapproved supplements that can add stress to the liver.
+• Pregnant women with hepatitis B should receive specialist medical guidance about hepatitis D risk and monitoring.
+• Children who may have been exposed should receive age-appropriate testing and medical follow-up.
+• Older adults should have regular review of medicines and liver function.
+• Seek urgent care for severe jaundice, confusion, vomiting blood, black stools, severe abdominal pain, or rapidly worsening illness.",medication,eat healthy,follow up
+Heart attack,"• Treat suspected heart-attack symptoms as an emergency and seek emergency medical care immediately.
+• Call local emergency services rather than driving yourself when severe symptoms occur.
+• Take prescribed heart and blood-pressure medicines consistently.
+• Control blood pressure, cholesterol, diabetes, and other cardiovascular risk factors.
+• Avoid smoking and secondhand smoke.
+• Follow a heart-healthy eating pattern and maintain physical activity as recommended after medical evaluation.
+• Attend cardiac rehabilitation when recommended after a heart attack.
+• Women may have symptoms such as unusual fatigue, nausea, shortness of breath, or back/jaw discomfort without classic severe chest pain; do not ignore these symptoms.
+• Older adults may have less typical symptoms and should receive prompt assessment for new unexplained breathlessness, weakness, or discomfort.
+• Pregnant or recently postpartum women with chest pain or shortness of breath require urgent assessment because serious cardiovascular and pregnancy-related causes are possible.
+• Chest pressure, pain spreading to the arm/jaw/back, severe breathlessness, sweating, fainting, or sudden deterioration requires emergency care.",chew or swallow asprin,keep calm,
+Pneumonia,"• Seek medical evaluation when pneumonia is suspected, particularly with fever, cough, chest pain, or breathing difficulty.
+• Take prescribed antibiotics or other treatment exactly as directed and complete the course when antibiotics are prescribed.
+• Rest and maintain adequate fluid intake unless medically restricted.
+• Avoid smoking and secondhand smoke.
+• Practice hand hygiene and respiratory etiquette to reduce spread of respiratory infections.
+• Follow vaccination recommendations for influenza, COVID-19, pneumococcal disease, and other infections relevant to your age and health.
+• Babies and young children should be monitored for fast breathing, poor feeding, chest indrawing, or unusual sleepiness.
+• Pregnant women with suspected pneumonia should seek prompt medical assessment because breathing infections can become more serious.
+• Older adults may show confusion or weakness instead of a high fever and should be assessed promptly when respiratory symptoms occur.
+• Severe breathing difficulty, blue or gray lips, confusion, severe chest pain, or rapidly worsening symptoms requires emergency care.",medication,rest,follow up
+Arthritis,"• Obtain a proper medical assessment because different types of arthritis require different treatments.
+• Keep joints moving with appropriate low-impact activity and prescribed exercises.
+• Take prescribed medicines consistently and attend monitoring appointments.
+• Maintain a healthy weight when medically appropriate.
+• Use heat or cold only as recommended and protect the skin from burns or cold injury.
+• Avoid prolonged inactivity, but also avoid activities that repeatedly cause significant joint injury.
+• Pregnant women should discuss arthritis medicines with their healthcare professional before conception or during pregnancy.
+• Children with persistent joint swelling, stiffness, or pain require pediatric/rheumatology assessment.
+• Older adults should review arthritis medicines for kidney, stomach, blood-pressure, and fall-related risks.
+• A hot, very swollen joint with fever, severe pain, or sudden inability to move it requires prompt medical evaluation.",use hot and cold therapy,try acupuncture,massage
+Gastroenteritis,"• Drink enough fluids to replace losses from vomiting or diarrhea; use oral rehydration solutions when appropriate.
+• Take small, frequent sips if nausea or vomiting makes drinking difficult.
+• Wash hands thoroughly with soap and water after using the toilet and before preparing or eating food.
+• Do not prepare food for others while experiencing infectious diarrhea or vomiting and follow local public-health advice about returning to work or school.
+• Use safe drinking water and properly cooked food.
+• Avoid unnecessary antibiotics because many cases are viral and antibiotics may not help.
+• For babies and young children, watch closely for reduced urination, dry mouth, no tears, unusual sleepiness, or poor feeding.
+• Older adults can become dehydrated quickly and should seek medical advice earlier when symptoms are significant.
+• Pregnant women should seek medical advice if vomiting or diarrhea is persistent or dehydration develops.
+• Blood in stool or vomit, severe dehydration, severe abdominal pain, persistent high fever, confusion, or worsening symptoms requires prompt medical care.",try taking small sips of water,rest,ease back into eating
+Tuberculosis,"• Complete the full TB treatment regimen exactly as prescribed; do not stop when symptoms improve.
+• Attend follow-up visits and required laboratory or imaging tests.
+• Take medicines at the prescribed times and report significant side effects promptly.
+• Follow local infection-control advice, including ventilation and mask use when recommended for infectious lung TB.
+• Avoid close indoor contact with vulnerable people until a healthcare professional confirms the risk of transmission has been adequately reduced.
+• Do not share prescribed TB medicines with anyone else.
+• Pregnant women with suspected or confirmed TB should receive specialist treatment rather than stopping treatment on their own.
+• Children with suspected TB require pediatric evaluation and age-appropriate treatment.
+• Older adults should be monitored for medicine side effects and interactions.
+• Persistent cough, coughing blood, severe breathing difficulty, confusion, or worsening symptoms requires prompt medical attention.",consult doctor,medication,rest
